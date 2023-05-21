@@ -1,0 +1,8 @@
+name: ModUtils
+version: 1
+api-version: 1.19
+main: fr.program.Main
+commands:
+  modt:
+    description: Donne des outils de base
+    permission: modutils.modt
